@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+    },
+    "include": ["*", "**/*"],
+    "exclude": ["node_modules"],
+    "typeAcquisition": {
+        "include": ["p5", "matter-js"]
+    }
+}
